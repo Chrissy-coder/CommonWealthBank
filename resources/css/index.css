@@ -1,0 +1,44 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #1e1e1e;
+  margin: 20px 10px;
+  font-size: 70pt;
+}
+
+h2 {
+  color: #1e1e1e;
+  font-size: 38pt;
+}
+
+p {
+  font-size: 18pt;
+  color: #1e1e1e;
+}
+
+a {
+  color: #ffcc00;
+}
+
+li {
+  font-size: 18pt;
+  color: #1e1e1e;
+}
+
+.Learn-more {
+  color: #1e1e1e;
+  font-weight: bold;
+}
+
+.container {
+  padding: 30px 60px;
+  margin: 0 auto;
+}
+
+background {
+  color: #ebebeb;
+}
